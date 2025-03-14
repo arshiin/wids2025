@@ -3,3 +3,4 @@ env/
 .vscode/
 datasets/
 .env
+__pycache__/
